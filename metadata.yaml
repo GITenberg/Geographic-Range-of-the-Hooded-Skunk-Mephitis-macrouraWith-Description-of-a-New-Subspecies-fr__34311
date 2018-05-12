@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '26108'
     url: http://www.gutenberg.org/2009/agents/26108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34311#Geographic-Range-of-the-Hooded-Skunk-Mephitis-macrouraWith-Description-of-a-New-Subspecies-fr_
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
